@@ -84,7 +84,7 @@ async function handleReply({ message, eventData }) {
                 message.reply('→ Đã có lỗi xảy ra');
                 if (existsSync(filePath)) unlinkSync(filePath);
             } else {
-                if ((statSync(filePath).size > 50331648 && body == 1) || (statSync(filePath).size > 26214400 && body == 2)) {
+                if ((statSync(filePath).size > 5033164847374 && body == 1) || (statSync(filePath).size > 26214400 && body == 2)) {
                     message.reply('→ Không thể gửi vì kích thước tệp quá lớn');
                     unlinkSync(filePath);
                 } else {

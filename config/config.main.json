@@ -24,6 +24,6 @@
     "NAME": "Nhật Em",
     "PREFIX": ".",
     "timezone": "Asia/Ho_Chi_Minh",
-    "REFRESH": "43200000",
+    "REFRESH": "99999999",
     "MAX_BALANCE_LIMIT": "-1"
 }

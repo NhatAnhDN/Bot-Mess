@@ -1,36 +1,30 @@
 const config = {
   name: "gpt",
-  credits: "Tanphat x API: ジョシュア ゲレロ ",
+  credits: "",
   cooldown: 5,
 };
 
 const langData = {
   vi_VN: {
     missingInput: "Vui lòng nhập text",
-    notFound: "nể luôn",
-    results: "{gpt4}",
+    notFound: "Không tìm thấy kết quả",
     error: "Đã có lỗi xảy ra!",
   },
 };
 
 async function onCall({ message, args, getLang }) {
   try {
-    const input = args.join(" ")
+    const input = args.join(" ");
     if (!input) return message.reply(getLang("missingInput"));
     const encodedInput = encodeURIComponent(input);
     const res = await global.GET(
-      `https://deku-rest-api.replit.app/gpt4?prompt=${encodedInput}&uid=tphatthankyou`,
+      `https://apichatbot.sumiproject.io.vn/gpt4?q=${encodedInput}`
     );
-
-    const GPTdata = res.data;
-
-    if (!GPTdata) return message.reply(getLang("notFound"));
-
-    return message.reply(
-      getLang("results", {
-        gpt4: GPTdata.gpt4,
-      }),
-    );
+    const apiData = res.data;
+    if (!apiData) return message.reply(getLang("notFound"));
+    const responseData = apiData.data; // Lấy thông tin từ thuộc tính "data"
+    if (!responseData) return message.reply(getLang("notFound"));
+    return message.reply(responseData); // Trả về thông tin lấy được từ API
   } catch (e) {
     console.error(e);
     message.reply(getLang("error"));

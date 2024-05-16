@@ -39,17 +39,18 @@
     "fluent-ffmpeg": "^2.1.2",
     "fs-extra": "^11.2.0",
     "helmet": "^6.0.0",
+    "image-downloader": "^4.3.0",
     "jimp": "^0.22.12",
     "js-yaml": "^4.1.0",
-    "moment-timezone": "^0.5.38",
+    "moment-timezone": "^0.5.45",
     "mongoose": "^7.5.0",
     "node-cron": "^3.0.2",
     "node-unar": "^1.0.8",
     "semver": "^7.3.8",
     "string-similarity": "^4.0.4",
     "systeminformation": "^5.22.7",
-    "wikijs": "^6.4.0",
     "uniqid": "^5.4.0",
+    "wikijs": "^6.4.0",
     "ytdl-core": "^4.11.2"
   }
 }

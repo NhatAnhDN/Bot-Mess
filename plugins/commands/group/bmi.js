@@ -4,11 +4,7 @@ const config = {
     hasPermssion: 0,
     credits: "tdong",
     description: "Tính toán chỉ số BMI của bạn",
-<<<<<<< HEAD
     commandCategory: "Tiện ích",
-=======
-    commandCategory: "",
->>>>>>> origin
     usages: "chiều cao + cân nặng",
     cooldowns: 5
 };
@@ -51,8 +47,4 @@ async function onCall({ message, args }) {
 export default {
     config,
     onCall
-<<<<<<< HEAD
 }
-=======
-    }
->>>>>>> origin

@@ -16,7 +16,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1290157550",
@@ -27,15 +27,15 @@
             "vanity": "dangnguyennhatanhuser",
             "profileUrl": "https://www.facebook.com/dangnguyennhatanhuser",
             "gender": 2,
-            "type": "friend",
-            "isFriend": true,
+            "type": "user",
+            "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 251,
+            "exp": 361,
             "money": "0"
         },
-        "lastUpdated": 1715833732382
+        "lastUpdated": 1716042009702
     },
     {
         "userID": "61553398524216",
@@ -54,7 +54,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1069510533",
@@ -73,7 +73,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61550622278689",
@@ -89,10 +89,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 10,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042174087
     },
     {
         "userID": "61551648788975",
@@ -108,10 +108,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 31,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61552746985132",
@@ -130,7 +130,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61554160871814",
@@ -146,15 +146,15 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 9,
+            "exp": 71,
             "money": "0",
-            "daily": 1715694759408,
+            "daily": 1716027670798,
             "work": {
-                "lastWorked": 1715694764270,
-                "delay": 10800000
+                "lastWorked": 1716027664641,
+                "delay": 3600000
             }
         },
-        "lastUpdated": 1715827613522
+        "lastUpdated": 1716041357295
     },
     {
         "userID": "61554565812457",
@@ -173,7 +173,7 @@
             "exp": 5,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61554826990686",
@@ -192,7 +192,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61554999877423",
@@ -211,7 +211,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555179121600",
@@ -227,10 +227,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 122,
+            "exp": 237,
             "money": "0"
         },
-        "lastUpdated": 1715839265608
+        "lastUpdated": 1716043255002
     },
     {
         "userID": "61555223736119",
@@ -249,7 +249,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555449790757",
@@ -264,7 +264,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555666527609",
@@ -283,7 +283,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555810362940",
@@ -302,7 +302,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557013274861",
@@ -321,7 +321,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557167860683",
@@ -337,10 +337,15 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
-            "money": "0"
+            "exp": 157,
+            "money": "877",
+            "work": {
+                "lastWorked": 1715925225713,
+                "delay": 3600000
+            },
+            "daily": 1715925242910
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467403
     },
     {
         "userID": "61557169958970",
@@ -355,7 +360,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559000356617",
@@ -370,22 +375,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559292280797",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559292280797/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467924
     },
     {
         "userID": "61559440640405",
@@ -400,7 +406,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559487508436",
@@ -419,22 +425,23 @@
             "exp": 4,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559744420302",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559744420302/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467844
     },
     {
         "userID": "100000627512341",
@@ -449,7 +456,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100005837613719",
@@ -464,7 +471,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100007332524434",
@@ -479,7 +486,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100008110546247",
@@ -494,7 +501,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100015451453763",
@@ -510,10 +517,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 93,
+            "exp": 626,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042908237
     },
     {
         "userID": "100042514094862",
@@ -529,10 +536,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 120,
+            "exp": 261,
             "money": "0"
         },
-        "lastUpdated": 1715837079197
+        "lastUpdated": 1716043153604
     },
     {
         "userID": "100043724674701",
@@ -548,10 +555,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 93,
+            "exp": 494,
             "money": "0"
         },
-        "lastUpdated": 1715834426920
+        "lastUpdated": 1716044539346
     },
     {
         "userID": "100050102494282",
@@ -567,10 +574,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 56,
+            "exp": 103,
             "money": "0"
         },
-        "lastUpdated": 1715838995989
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100051753709620",
@@ -589,7 +596,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100051803497430",
@@ -605,10 +612,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 86,
+            "exp": 190,
             "money": "0"
         },
-        "lastUpdated": 1715838244496
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100051869392034",
@@ -627,7 +634,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100051874894136",
@@ -646,7 +653,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100052314231545",
@@ -665,7 +672,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100055686368863",
@@ -681,10 +688,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 11,
-            "money": "0"
+            "exp": 38,
+            "money": "325"
         },
-        "lastUpdated": 1715836907316
+        "lastUpdated": 1716013040921
     },
     {
         "userID": "100055721606953",
@@ -694,16 +701,16 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100055721606953/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100055721606953",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 15,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100055727406381",
@@ -719,10 +726,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 4,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042091067
     },
     {
         "userID": "100057081461621",
@@ -738,10 +745,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 4,
+            "exp": 15,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100058189449666",
@@ -751,16 +758,16 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100058189449666/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100058189449666",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 5,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100059380400824",
@@ -779,7 +786,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100062376874653",
@@ -798,7 +805,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100063646907909",
@@ -808,16 +815,16 @@
             "vanity": "haiyen.chau.14418",
             "thumbSrc": "https://graph.facebook.com/100063646907909/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/haiyen.chau.14418",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 31,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716030271822
     },
     {
         "userID": "100066751360377",
@@ -833,10 +840,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 3,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044191412
     },
     {
         "userID": "100066761541689",
@@ -855,7 +862,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100068626878707",
@@ -871,10 +878,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 5,
+            "exp": 30,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100069499355774",
@@ -893,7 +900,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100069621933664",
@@ -909,10 +916,15 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
-            "money": "0"
+            "exp": 272,
+            "money": "2591",
+            "daily": 1716013013493,
+            "work": {
+                "lastWorked": 1715862257386,
+                "delay": 3600000
+            }
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044499118
     },
     {
         "userID": "100070650815518",
@@ -928,10 +940,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 33,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042717051
     },
     {
         "userID": "100070919985273",
@@ -941,16 +953,20 @@
             "vanity": "phonedz",
             "thumbSrc": "https://graph.facebook.com/100070919985273/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/phonedz",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
-            "money": "0"
+            "exp": 65,
+            "money": "265",
+            "work": {
+                "lastWorked": 1715998030245,
+                "delay": 10800000
+            }
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716037502164
     },
     {
         "userID": "100073265390895",
@@ -969,7 +985,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100076920672910",
@@ -985,7 +1001,7 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 18,
+            "exp": 57,
             "money": "41",
             "daily": 1715750135437,
             "work": {
@@ -993,7 +1009,7 @@
                 "delay": 7200000
             }
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077023017186",
@@ -1012,7 +1028,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077306785301",
@@ -1031,7 +1047,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077307896126",
@@ -1050,7 +1066,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077881295251",
@@ -1066,10 +1082,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 8,
+            "exp": 22,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042763236
     },
     {
         "userID": "100077968215356",
@@ -1088,7 +1104,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100079281377866",
@@ -1104,10 +1120,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 28,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716038346276
     },
     {
         "userID": "100080631522575",
@@ -1123,10 +1139,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 194,
-            "money": "0"
+            "exp": 281,
+            "money": "100"
         },
-        "lastUpdated": 1715838997900
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100080718916887",
@@ -1136,16 +1152,16 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100080718916887/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100080718916887",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 11,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100081475177893",
@@ -1164,7 +1180,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100082055229744",
@@ -1180,10 +1196,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 37,
+            "exp": 52,
             "money": "0"
         },
-        "lastUpdated": 1715833059671
+        "lastUpdated": 1716031815860
     },
     {
         "userID": "100082762456987",
@@ -1202,7 +1218,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100084326802551",
@@ -1218,10 +1234,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 25,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042236998
     },
     {
         "userID": "100085820440576",
@@ -1240,7 +1256,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100085854204163",
@@ -1259,7 +1275,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100085874686722",
@@ -1275,10 +1291,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 13,
+            "exp": 24,
             "money": "0"
         },
-        "lastUpdated": 1715827661392
+        "lastUpdated": 1716042266835
     },
     {
         "userID": "100087265516886",
@@ -1288,16 +1304,16 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100087265516886/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100087265516886",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 8,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716041972346
     },
     {
         "userID": "100087288995323",
@@ -1316,7 +1332,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100087336111796",
@@ -1335,7 +1351,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100087766202317",
@@ -1354,7 +1370,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100088257666306",
@@ -1373,7 +1389,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100088266708196",
@@ -1388,7 +1404,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100088931253326",
@@ -1404,10 +1420,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 28,
+            "exp": 261,
             "money": "0"
         },
-        "lastUpdated": 1715838595061
+        "lastUpdated": 1716041777518
     },
     {
         "userID": "100089381691747",
@@ -1417,16 +1433,21 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100089381691747/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100089381691747",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
-            "money": "0"
+            "exp": 323,
+            "money": "0",
+            "daily": 1716001777994,
+            "work": {
+                "lastWorked": 1716027620119,
+                "delay": 10800000
+            }
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716033497114
     },
     {
         "userID": "100089519320894",
@@ -1445,7 +1466,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100090271661181",
@@ -1456,15 +1477,20 @@
             "thumbSrc": "https://graph.facebook.com/100090271661181/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100090271661181",
             "gender": 2,
-            "type": "user",
-            "isFriend": false,
+            "type": "friend",
+            "isFriend": true,
             "isBirthday": false
         },
         "data": {
-            "exp": 377,
-            "money": "0"
+            "exp": 955,
+            "money": "10989999990000009999999999989498",
+            "daily": 1715965805701,
+            "work": {
+                "lastWorked": 1716025992389,
+                "delay": 1800000
+            }
         },
-        "lastUpdated": 1715838892618
+        "lastUpdated": 1716041218115
     },
     {
         "userID": "100090329352795",
@@ -1483,7 +1509,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100091830856282",
@@ -1502,7 +1528,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100093398814342",
@@ -1521,7 +1547,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100094138302365",
@@ -1537,10 +1563,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 32,
+            "exp": 62,
             "money": "0"
         },
-        "lastUpdated": 1715839320463
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100095015378709",
@@ -1550,8 +1576,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100095015378709/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100095015378709",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -1559,7 +1585,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716026423635
     },
     {
         "userID": "100095580251466",
@@ -1578,7 +1604,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100095602959155",
@@ -1594,10 +1620,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 84,
+            "exp": 230,
             "money": "0"
         },
-        "lastUpdated": 1715834360937
+        "lastUpdated": 1716044520092
     },
     {
         "userID": "61556201666153",
@@ -1607,8 +1633,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61556201666153/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61556201666153",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -1616,7 +1642,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467745
     },
     {
         "userID": "100030712594010",
@@ -1632,10 +1658,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 81,
+            "exp": 225,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467328
     },
     {
         "userID": "100064360519572",
@@ -1651,10 +1677,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 107,
+            "exp": 351,
             "money": "0"
         },
-        "lastUpdated": 1715837895325
+        "lastUpdated": 1716044467255
     },
     {
         "userID": "100074057620618",
@@ -1670,7 +1696,7 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 136,
+            "exp": 541,
             "money": "1128",
             "work": {
                 "lastWorked": 1715792504974,
@@ -1678,7 +1704,7 @@
             },
             "daily": 1715792642175
         },
-        "lastUpdated": 1715838258539
+        "lastUpdated": 1716044560787
     },
     {
         "userID": "100079470362854",
@@ -1694,10 +1720,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 9,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467484
     },
     {
         "userID": "100084044349310",
@@ -1713,15 +1739,15 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 153,
-            "money": "84",
+            "exp": 580,
+            "money": "0",
             "work": {
-                "lastWorked": 1715792511764,
-                "delay": 3600000
+                "lastWorked": 1715958095792,
+                "delay": 21600000
             },
-            "daily": 1715792514058
+            "daily": 1715925201324
         },
-        "lastUpdated": 1715827407523
+        "lastUpdated": 1716044526092
     },
     {
         "userID": "100084120521671",
@@ -1740,7 +1766,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467644
     },
     {
         "userID": "100086677939082",
@@ -1759,7 +1785,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100093546803822",
@@ -1775,10 +1801,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 119,
+            "exp": 497,
             "money": "0"
         },
-        "lastUpdated": 1715838101991
+        "lastUpdated": 1716044467149
     },
     {
         "userID": "595568537",
@@ -1793,7 +1819,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100039097552298",
@@ -1812,7 +1838,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100040797425307",
@@ -1831,7 +1857,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100059910042282",
@@ -1850,7 +1876,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100080415986083",
@@ -1869,7 +1895,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100085172307971",
@@ -1888,7 +1914,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100087211961120",
@@ -1907,7 +1933,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61551885596696",
@@ -1923,10 +1949,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61552143827624",
@@ -1945,7 +1971,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555790872775",
@@ -1960,12 +1986,12 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557318666947",
         "info": {
-            "name": "Phát Trần",
+            "name": "Trần Phát",
             "firstName": "Phát",
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61557318666947/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
@@ -1976,10 +2002,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 112,
+            "exp": 296,
             "money": "0"
         },
-        "lastUpdated": 1715835795669
+        "lastUpdated": 1716044422125
     },
     {
         "userID": "100000779526560",
@@ -1994,7 +2020,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100018096263453",
@@ -2013,7 +2039,7 @@
             "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100028834296823",
@@ -2032,7 +2058,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100037065521697",
@@ -2048,10 +2074,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 16,
+            "exp": 69,
             "money": "0"
         },
-        "lastUpdated": 1715835384468
+        "lastUpdated": 1716035886277
     },
     {
         "userID": "100041069441539",
@@ -2070,7 +2096,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100062356113533",
@@ -2089,7 +2115,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100074623271063",
@@ -2104,7 +2130,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100075337113552",
@@ -2120,10 +2146,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 57,
+            "exp": 100,
             "money": "0"
         },
-        "lastUpdated": 1715827367738
+        "lastUpdated": 1716044344278
     },
     {
         "userID": "100080938191481",
@@ -2139,10 +2165,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 10,
+            "exp": 21,
             "money": "0"
         },
-        "lastUpdated": 1715833749641
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100082306146384",
@@ -2161,7 +2187,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100094677330112",
@@ -2177,10 +2203,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 73,
+            "exp": 188,
             "money": "0"
         },
-        "lastUpdated": 1715833807461
+        "lastUpdated": 1716043030551
     },
     {
         "userID": "61559455811143",
@@ -2190,8 +2216,8 @@
             "vanity": "Dnnanecon",
             "thumbSrc": "https://graph.facebook.com/61559455811143/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Dnnanecon",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2199,7 +2225,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716044467992
     },
     {
         "userID": "100031852582057",
@@ -2215,10 +2241,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 27,
+            "exp": 36,
             "money": "0"
         },
-        "lastUpdated": 1715837891358
+        "lastUpdated": 1716044467557
     },
     {
         "userID": "100058477869215",
@@ -2234,14 +2260,15 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 429,
-            "money": "0",
+            "exp": 524,
+            "money": "374",
             "work": {
-                "lastWorked": 1715764580359,
-                "delay": 1800000
-            }
+                "lastWorked": 1715850583941,
+                "delay": 10800000
+            },
+            "daily": 1715850576178
         },
-        "lastUpdated": 1715839278458
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "503845790",
@@ -2260,7 +2287,7 @@
             "exp": 10,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "537846897",
@@ -2270,16 +2297,16 @@
             "vanity": "NVNH2007",
             "thumbSrc": "https://graph.facebook.com/537846897/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/NVNH2007",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 19,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716040448349
     },
     {
         "userID": "666896678",
@@ -2289,8 +2316,8 @@
             "vanity": "Boiz0379",
             "thumbSrc": "https://graph.facebook.com/666896678/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Boiz0379",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2298,7 +2325,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "709145693",
@@ -2314,10 +2341,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 5,
             "money": "0"
         },
-        "lastUpdated": 1715836879628
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "756782449",
@@ -2327,8 +2354,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/756782449/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=756782449",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2336,7 +2363,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1162050272",
@@ -2346,16 +2373,16 @@
             "vanity": "dunz.2007",
             "thumbSrc": "https://graph.facebook.com/1162050272/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/dunz.2007",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 38,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716042852879
     },
     {
         "userID": "1542881558",
@@ -2371,10 +2398,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 34,
+            "exp": 46,
             "money": "0"
         },
-        "lastUpdated": 1715832001171
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1550702797",
@@ -2384,8 +2411,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/1550702797/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=1550702797",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2393,7 +2420,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1655389516",
@@ -2403,8 +2430,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/1655389516/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=1655389516",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2412,7 +2439,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931981
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "1824557330",
@@ -2422,16 +2449,16 @@
             "vanity": "prog.meowcoderchill",
             "thumbSrc": "https://graph.facebook.com/1824557330/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/prog.meowcoderchill",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 48,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716032383098
     },
     {
         "userID": "61550069737865",
@@ -2441,35 +2468,35 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61550069737865/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61550069737865",
-            "gender": "MALE",
-            "type": "User",
-            "isFriend": false,
-            "isBirthday": false
-        },
-        "data": {
-            "exp": 1,
-            "money": "0"
-        },
-        "lastUpdated": 1715821931982
-    },
-    {
-        "userID": "61550521925292",
-        "info": {
-            "name": "𓂄𓆩𑁍𓆪𓂁 𓆉 ٭ 爾 𝑫𝒂𝒐 𝑿𝒖𝒂𝒏 𝑻𝒓𝒖𝒐𝒏𝒈𝒈 𝑩𝒂𝒕 𝑻𝒖 𝑻𝒉𝒆𝒐 𝑻𝒉𝒐𝒊 𝑮𝒊𝒂𝒏..⸙ ༒卐",
-            "firstName": "┈┈┈┈▕▔╱▔▔▔━▁ ┈┈┈▕▔╱╱╱(🅞)┈╲▂▔▔╲ ┈┈▕▔╱╱╱╱||||||▂▂▂▂▂▂▏ ┈▕▔╱▕▕╱╱╱┈▽▽▽▽▽ ▕▔╱┊┈╲╲╲╲▂△△△△ ▔╱┊┈╱▕╲▂▂",
-            "vanity": "",
-            "thumbSrc": "https://graph.facebook.com/61550521925292/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": "https://www.facebook.com/profile.php?id=61550521925292",
             "gender": 2,
             "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 31,
+            "exp": 75,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716041588195
+    },
+    {
+        "userID": "61550521925292",
+        "info": {
+            "name": "𓂄𓆩𑁍𓆪𓂁 𓆉 ٭ 爾 𝑫𝒂𝒐 𝑿𝒖𝒂𝒏 𝑻𝒓𝒖𝒐𝒏𝒈𝒈 𝑩𝒂𝒕 𝑻𝒖 𝑻𝒉𝒆𝒐 𝑻𝒉𝒐𝒊 𝑮𝒊𝒂𝒏..⸙ ༒卐",
+            "firstName": "┈┈┈┈▕▔╱▔▔▔━▁ ┈┈┈▕▔╱╱╱(🅞)┈╲▂▔▔╲ ┈┈▕▔╱╱╱╱||||||▂▂▂▂▂▂▏ ┈▕▔╱▕▕╱╱╱┈▽▽▽▽▽ ▕▔╱┊┈╲╲╲╲▂△△△△ ▔╱┊┈╱▕╲▂▂",
+            "vanity": "truong.tickk",
+            "thumbSrc": "https://graph.facebook.com/61550521925292/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/truong.tickk",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 361,
+            "money": "0"
+        },
+        "lastUpdated": 1716041688342
     },
     {
         "userID": "61550771631803",
@@ -2479,8 +2506,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61550771631803/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61550771631803",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2488,7 +2515,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61550904929676",
@@ -2504,10 +2531,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 43,
+            "exp": 234,
             "money": "0"
         },
-        "lastUpdated": 1715834305247
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61550920193910",
@@ -2517,8 +2544,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61550920193910/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61550920193910",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2526,7 +2553,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61552803031181",
@@ -2536,16 +2563,16 @@
             "vanity": "nlgiaphuc2010",
             "thumbSrc": "https://graph.facebook.com/61552803031181/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/nlgiaphuc2010",
-            "gender": "NEUTER",
-            "type": "User",
+            "gender": 6,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 6,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61553951764588",
@@ -2555,8 +2582,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61553951764588/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61553951764588",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2564,7 +2591,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61554463547147",
@@ -2580,10 +2607,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 82,
+            "exp": 184,
             "money": "0"
         },
-        "lastUpdated": 1715839203629
+        "lastUpdated": 1716026403487
     },
     {
         "userID": "61554533647809",
@@ -2599,10 +2626,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 18,
+            "exp": 20,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716037391192
     },
     {
         "userID": "61554725067263",
@@ -2612,8 +2639,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61554725067263/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61554725067263",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2621,22 +2648,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61554952705292",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61554952705292/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61555968525167",
@@ -2652,10 +2680,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 4,
+            "exp": 25,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716040173115
     },
     {
         "userID": "61556172547313",
@@ -2665,16 +2693,16 @@
             "vanity": "tmi.la.hiha",
             "thumbSrc": "https://graph.facebook.com/61556172547313/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/tmi.la.hiha",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 10,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61556421717220",
@@ -2684,8 +2712,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61556421717220/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61556421717220",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2693,7 +2721,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61556571832885",
@@ -2709,10 +2737,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 22,
+            "exp": 24,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61556918211744",
@@ -2722,8 +2750,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61556918211744/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61556918211744",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2731,7 +2759,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557093394655",
@@ -2741,8 +2769,8 @@
             "vanity": "olleny.lk",
             "thumbSrc": "https://graph.facebook.com/61557093394655/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/olleny.lk",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2750,7 +2778,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557288705274",
@@ -2760,8 +2788,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61557288705274/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61557288705274",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2769,7 +2797,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557329604394",
@@ -2785,10 +2813,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 44,
+            "exp": 97,
             "money": "0"
         },
-        "lastUpdated": 1715828401451
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557550870441",
@@ -2798,8 +2826,8 @@
             "vanity": "MaxBi301005",
             "thumbSrc": "https://graph.facebook.com/61557550870441/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/MaxBi301005",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2807,7 +2835,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557697311088",
@@ -2823,55 +2851,58 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 36,
+            "exp": 88,
             "money": "0"
         },
-        "lastUpdated": 1715837098430
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557772565305",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61557772565305/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557989638246",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61557989638246/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557991419750",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61557991419750/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558034731757",
@@ -2887,10 +2918,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 52,
+            "exp": 240,
             "money": "0"
         },
-        "lastUpdated": 1715837583243
+        "lastUpdated": 1716037392777
     },
     {
         "userID": "61558231606418",
@@ -2900,8 +2931,8 @@
             "vanity": "dung.nguyen.lemonbotz",
             "thumbSrc": "https://graph.facebook.com/61558231606418/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/dung.nguyen.lemonbotz",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2909,7 +2940,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558508996237",
@@ -2919,8 +2950,8 @@
             "vanity": "lemon.bot.2024",
             "thumbSrc": "https://graph.facebook.com/61558508996237/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/lemon.bot.2024",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2928,7 +2959,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558535833964",
@@ -2938,8 +2969,8 @@
             "vanity": "hqinwz206",
             "thumbSrc": "https://graph.facebook.com/61558535833964/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/hqinwz206",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2947,22 +2978,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558646519652",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61558646519652/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558691518366",
@@ -2972,8 +3004,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61558691518366/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61558691518366",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -2981,7 +3013,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558737115461",
@@ -2997,10 +3029,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 11,
+            "exp": 182,
             "money": "0"
         },
-        "lastUpdated": 1715839202004
+        "lastUpdated": 1716030003783
     },
     {
         "userID": "61558767982113",
@@ -3010,8 +3042,8 @@
             "vanity": "chunn.mit",
             "thumbSrc": "https://graph.facebook.com/61558767982113/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/chunn.mit",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3019,37 +3051,39 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61558920574573",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61558920574573/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559085406333",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559085406333/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559142330608",
@@ -3059,8 +3093,8 @@
             "vanity": "KaiToKid.Bot",
             "thumbSrc": "https://graph.facebook.com/61559142330608/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/KaiToKid.Bot",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3068,7 +3102,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559191539569",
@@ -3078,8 +3112,8 @@
             "vanity": "sexinthecityhihi",
             "thumbSrc": "https://graph.facebook.com/61559191539569/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/sexinthecityhihi",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3087,7 +3121,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559202959520",
@@ -3106,7 +3140,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559226894462",
@@ -3116,8 +3150,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61559226894462/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61559226894462",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3125,37 +3159,39 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559276461673",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559276461673/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559278200017",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559278200017/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559341295855",
@@ -3165,8 +3201,8 @@
             "vanity": "meomeox.cute",
             "thumbSrc": "https://graph.facebook.com/61559341295855/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/meomeox.cute",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3174,22 +3210,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559602013137",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559602013137/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559653882893",
@@ -3205,25 +3242,26 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 52,
+            "exp": 244,
             "money": "0"
         },
-        "lastUpdated": 1715835601970
+        "lastUpdated": 1716040736900
     },
     {
         "userID": "61559673773913",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/61559673773913/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61559791946211",
@@ -3239,10 +3277,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 48,
+            "exp": 433,
             "money": "0"
         },
-        "lastUpdated": 1715839201696
+        "lastUpdated": 1716041748068
     },
     {
         "userID": "100000180546782",
@@ -3252,8 +3290,8 @@
             "vanity": "sasiya.sreesukwatthana",
             "thumbSrc": "https://graph.facebook.com/100000180546782/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/sasiya.sreesukwatthana",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3261,7 +3299,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100000493975005",
@@ -3277,10 +3315,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 55,
+            "exp": 152,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716032511868
     },
     {
         "userID": "100000578688107",
@@ -3290,8 +3328,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100000578688107/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100000578688107",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3299,7 +3337,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100000732833159",
@@ -3309,8 +3347,8 @@
             "vanity": "thaithuan.vn",
             "thumbSrc": "https://graph.facebook.com/100000732833159/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/thaithuan.vn",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3318,7 +3356,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100002110191281",
@@ -3328,8 +3366,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100002110191281/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100002110191281",
-            "gender": "NEUTER",
-            "type": "User",
+            "gender": 6,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3337,22 +3375,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100002461519825",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/100002461519825/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100002752964697",
@@ -3368,10 +3407,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 5,
+            "exp": 21,
             "money": "0"
         },
-        "lastUpdated": 1715839202747
+        "lastUpdated": 1716012001763
     },
     {
         "userID": "100004859045432",
@@ -3387,25 +3426,26 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 8,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100006151832027",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/100006151832027/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100008092327437",
@@ -3415,8 +3455,8 @@
             "vanity": "mala.panda.18",
             "thumbSrc": "https://graph.facebook.com/100008092327437/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/mala.panda.18",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3424,7 +3464,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100008522174196",
@@ -3443,7 +3483,7 @@
             "exp": 3,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100011196246311",
@@ -3453,8 +3493,8 @@
             "vanity": "BotMes.By.Dtruong",
             "thumbSrc": "https://graph.facebook.com/100011196246311/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/BotMes.By.Dtruong",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3462,7 +3502,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100013957026271",
@@ -3472,8 +3512,8 @@
             "vanity": "hinhtranvlogs",
             "thumbSrc": "https://graph.facebook.com/100013957026271/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/hinhtranvlogs",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3481,7 +3521,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100015708247902",
@@ -3491,8 +3531,8 @@
             "vanity": "ltzycutes1tg",
             "thumbSrc": "https://graph.facebook.com/100015708247902/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/ltzycutes1tg",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3500,7 +3540,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100016695791997",
@@ -3516,10 +3556,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 61,
+            "exp": 164,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716040634793
     },
     {
         "userID": "100018663901688",
@@ -3535,10 +3575,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 11,
+            "exp": 14,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100020460654779",
@@ -3554,10 +3594,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 25,
+            "exp": 59,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100022448225417",
@@ -3576,7 +3616,7 @@
             "exp": 4,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100022915964572",
@@ -3586,8 +3626,8 @@
             "vanity": "tin.nguyennhoc.9",
             "thumbSrc": "https://graph.facebook.com/100022915964572/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/tin.nguyennhoc.9",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3595,7 +3635,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100024218983770",
@@ -3605,8 +3645,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100024218983770/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100024218983770",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3614,7 +3654,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100025964595861",
@@ -3624,8 +3664,8 @@
             "vanity": "pe.minh.25",
             "thumbSrc": "https://graph.facebook.com/100025964595861/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/pe.minh.25",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3633,7 +3673,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100027187763993",
@@ -3649,10 +3689,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 13,
+            "exp": 49,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716028255309
     },
     {
         "userID": "100027248830437",
@@ -3662,16 +3702,16 @@
             "vanity": "Hoangdevdz24107.pro",
             "thumbSrc": "https://graph.facebook.com/100027248830437/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Hoangdevdz24107.pro",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 3,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100029310527150",
@@ -3681,8 +3721,8 @@
             "vanity": "thanlong.nguyen.7731",
             "thumbSrc": "https://graph.facebook.com/100029310527150/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/thanlong.nguyen.7731",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3690,7 +3730,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100029378752728",
@@ -3706,10 +3746,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 14,
+            "exp": 83,
             "money": "0"
         },
-        "lastUpdated": 1715836348715
+        "lastUpdated": 1716040233188
     },
     {
         "userID": "100030259834679",
@@ -3719,8 +3759,8 @@
             "vanity": "anhquy.2.0.8",
             "thumbSrc": "https://graph.facebook.com/100030259834679/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/anhquy.2.0.8",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3728,7 +3768,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100030967444445",
@@ -3747,7 +3787,7 @@
             "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100033986649405",
@@ -3757,8 +3797,8 @@
             "vanity": "Vuhao2005",
             "thumbSrc": "https://graph.facebook.com/100033986649405/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Vuhao2005",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3766,7 +3806,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100037211391552",
@@ -3776,8 +3816,8 @@
             "vanity": "sucvatdaide",
             "thumbSrc": "https://graph.facebook.com/100037211391552/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/sucvatdaide",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3785,7 +3825,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100038791595043",
@@ -3801,10 +3841,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 10,
+            "exp": 14,
             "money": "0"
         },
-        "lastUpdated": 1715837425411
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100041296170925",
@@ -3814,8 +3854,8 @@
             "vanity": "tiencuong.251",
             "thumbSrc": "https://graph.facebook.com/100041296170925/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/tiencuong.251",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3823,7 +3863,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100042575622073",
@@ -3833,8 +3873,8 @@
             "vanity": "marklomuhaha",
             "thumbSrc": "https://graph.facebook.com/100042575622073/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/marklomuhaha",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3842,7 +3882,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100047152010637",
@@ -3858,10 +3898,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 4,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100048286966787",
@@ -3871,16 +3911,16 @@
             "vanity": "vanchiendzs",
             "thumbSrc": "https://graph.facebook.com/100048286966787/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/vanchiendzs",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 39,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716029476168
     },
     {
         "userID": "100051226721968",
@@ -3890,8 +3930,8 @@
             "vanity": "dontpayacc",
             "thumbSrc": "https://graph.facebook.com/100051226721968/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/dontpayacc",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3899,7 +3939,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100052350074625",
@@ -3909,8 +3949,8 @@
             "vanity": "thanhvinhthuacc.09",
             "thumbSrc": "https://graph.facebook.com/100052350074625/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/thanhvinhthuacc.09",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3918,7 +3958,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100052826919135",
@@ -3928,8 +3968,8 @@
             "vanity": "aly.robotproject",
             "thumbSrc": "https://graph.facebook.com/100052826919135/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/aly.robotproject",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3937,7 +3977,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100053800224181",
@@ -3947,8 +3987,8 @@
             "vanity": "Phuc13585",
             "thumbSrc": "https://graph.facebook.com/100053800224181/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Phuc13585",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3956,7 +3996,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100054884351496",
@@ -3966,8 +4006,8 @@
             "vanity": "hq.inw9",
             "thumbSrc": "https://graph.facebook.com/100054884351496/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/hq.inw9",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3975,7 +4015,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100062147867898",
@@ -3985,8 +4025,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100062147867898/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100062147867898",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -3994,7 +4034,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100062327635551",
@@ -4004,16 +4044,16 @@
             "vanity": "hunew.lagg",
             "thumbSrc": "https://graph.facebook.com/100062327635551/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/hunew.lagg",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 3,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100067508386723",
@@ -4029,10 +4069,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 25,
+            "exp": 375,
             "money": "0"
         },
-        "lastUpdated": 1715822233926
+        "lastUpdated": 1716041353498
     },
     {
         "userID": "100068096370437",
@@ -4048,10 +4088,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 104,
+            "exp": 319,
             "money": "0"
         },
-        "lastUpdated": 1715837493186
+        "lastUpdated": 1716041611238
     },
     {
         "userID": "100068310261131",
@@ -4067,10 +4107,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 47,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716041638649
     },
     {
         "userID": "100069040786247",
@@ -4086,10 +4126,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 8,
+            "exp": 153,
             "money": "0"
         },
-        "lastUpdated": 1715836883158
+        "lastUpdated": 1716041593654
     },
     {
         "userID": "100069091017023",
@@ -4099,8 +4139,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100069091017023/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100069091017023",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4108,7 +4148,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100069142014915",
@@ -4118,16 +4158,16 @@
             "vanity": "ducthinh.user",
             "thumbSrc": "https://graph.facebook.com/100069142014915/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/ducthinh.user",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 8,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100071680238906",
@@ -4143,10 +4183,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 27,
+            "exp": 137,
             "money": "0"
         },
-        "lastUpdated": 1715834342380
+        "lastUpdated": 1716041680278
     },
     {
         "userID": "100074224563535",
@@ -4156,8 +4196,8 @@
             "vanity": "congduc.user",
             "thumbSrc": "https://graph.facebook.com/100074224563535/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/congduc.user",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4165,7 +4205,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100075185498345",
@@ -4175,8 +4215,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100075185498345/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100075185498345",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4184,7 +4224,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100075355876941",
@@ -4194,8 +4234,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100075355876941/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100075355876941",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4203,7 +4243,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100075676857572",
@@ -4222,7 +4262,7 @@
             "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100076965934609",
@@ -4232,8 +4272,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100076965934609/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100076965934609",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4241,7 +4281,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077983622000",
@@ -4251,8 +4291,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100077983622000/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100077983622000",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4260,7 +4300,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100078644937656",
@@ -4279,7 +4319,7 @@
             "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100080195806723",
@@ -4289,8 +4329,8 @@
             "vanity": "tiendung2901",
             "thumbSrc": "https://graph.facebook.com/100080195806723/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/tiendung2901",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4298,7 +4338,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100080647629698",
@@ -4308,8 +4348,8 @@
             "vanity": "nguyenductai.user.meta",
             "thumbSrc": "https://graph.facebook.com/100080647629698/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/nguyenductai.user.meta",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4317,7 +4357,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100081139775425",
@@ -4327,8 +4367,8 @@
             "vanity": "doanthangdzcute",
             "thumbSrc": "https://graph.facebook.com/100081139775425/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/doanthangdzcute",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4336,7 +4376,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100085073240621",
@@ -4346,31 +4386,32 @@
             "vanity": "Danggiakhanh18t.vanhungcl",
             "thumbSrc": "https://graph.facebook.com/100085073240621/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Danggiakhanh18t.vanhungcl",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 8,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100085088395095",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/100085088395095/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100087613896422",
@@ -4386,10 +4427,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 3,
+            "exp": 25,
             "money": "0"
         },
-        "lastUpdated": 1715837530872
+        "lastUpdated": 1716030057849
     },
     {
         "userID": "100087762024208",
@@ -4405,10 +4446,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 5,
+            "exp": 11,
             "money": "0"
         },
-        "lastUpdated": 1715837096958
+        "lastUpdated": 1716027201171
     },
     {
         "userID": "100088031225325",
@@ -4424,25 +4465,26 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 123,
+            "exp": 422,
             "money": "0"
         },
-        "lastUpdated": 1715837579533
+        "lastUpdated": 1716041747132
     },
     {
         "userID": "100088266109751",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/100088266109751/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100088286371303",
@@ -4452,8 +4494,8 @@
             "vanity": "admin.hoangbao",
             "thumbSrc": "https://graph.facebook.com/100088286371303/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/admin.hoangbao",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4461,7 +4503,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100090260659479",
@@ -4471,8 +4513,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100090260659479/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100090260659479",
-            "gender": "FEMALE",
-            "type": "User",
+            "gender": 1,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4480,7 +4522,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100090511285969",
@@ -4490,8 +4532,8 @@
             "vanity": "storiousholy",
             "thumbSrc": "https://graph.facebook.com/100090511285969/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/storiousholy",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4499,7 +4541,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100090973907121",
@@ -4515,10 +4557,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 19,
+            "exp": 42,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716032279755
     },
     {
         "userID": "100091715182610",
@@ -4537,7 +4579,7 @@
             "exp": 2,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100092287875649",
@@ -4547,16 +4589,16 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100092287875649/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100092287875649",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
         "data": {
-            "exp": 1,
+            "exp": 3,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100092744481406",
@@ -4572,10 +4614,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 5,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100093533087708",
@@ -4585,8 +4627,8 @@
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100093533087708/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100093533087708",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4594,22 +4636,23 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100093715554996",
         "info": {
             "name": "Người dùng Facebook",
             "thumbSrc": "https://graph.facebook.com/100093715554996/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
-            "profileUrl": null,
-            "type": "UnavailableMessagingActor",
-            "isBirthday": false
+            "type": "user",
+            "isBirthday": false,
+            "firstName": "Người dùng Facebook",
+            "gender": 7
         },
         "data": {
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100095329730145",
@@ -4619,8 +4662,8 @@
             "vanity": "Binhandayma",
             "thumbSrc": "https://graph.facebook.com/100095329730145/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/Binhandayma",
-            "gender": "MALE",
-            "type": "User",
+            "gender": 2,
+            "type": "user",
             "isFriend": false,
             "isBirthday": false
         },
@@ -4628,13 +4671,13 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557831104142",
         "info": {
-            "name": "Mỹ Linh",
-            "firstName": "Linh",
+            "name": "Thanh Thủy",
+            "firstName": "Thủy",
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/61557831104142/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=61557831104142",
@@ -4644,10 +4687,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 50,
+            "exp": 265,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716028673270
     },
     {
         "userID": "61550009964268",
@@ -4662,7 +4705,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61552893955781",
@@ -4681,7 +4724,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557348277417",
@@ -4700,7 +4743,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100004366982560",
@@ -4719,7 +4762,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100015962040797",
@@ -4738,7 +4781,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100053315783898",
@@ -4757,13 +4800,13 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100071192331590",
         "info": {
-            "name": "Quốc Nam",
-            "firstName": "Nam",
+            "name": "Q⃠u⃠o⃠c⃠n⃠a⃠m⃠ D⃠z⃠s⃠t⃠g⃠",
+            "firstName": "Q⃠u⃠o⃠c⃠n⃠a⃠m⃠",
             "vanity": "",
             "thumbSrc": "https://graph.facebook.com/100071192331590/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
             "profileUrl": "https://www.facebook.com/profile.php?id=100071192331590",
@@ -4773,7 +4816,7 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 8,
+            "exp": 92,
             "money": "0",
             "work": {
                 "lastWorked": 1715816420574,
@@ -4781,7 +4824,7 @@
             },
             "daily": 1715816431032
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100073690325404",
@@ -4800,7 +4843,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100079115605660",
@@ -4819,7 +4862,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100080063663889",
@@ -4838,7 +4881,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61557675191465",
@@ -4854,10 +4897,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 11,
+            "exp": 104,
             "money": "0"
         },
-        "lastUpdated": 1715834312990
+        "lastUpdated": 1716030002453
     },
     {
         "userID": "100073383841451",
@@ -4873,10 +4916,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 8,
+            "exp": 58,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100081092915719",
@@ -4892,10 +4935,10 @@
             "isBirthday": false
         },
         "data": {
-            "exp": 2,
+            "exp": 69,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100079258976566",
@@ -4914,7 +4957,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100077407521159",
@@ -4933,7 +4976,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100093346658207",
@@ -4952,7 +4995,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100078910762859",
@@ -4971,7 +5014,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61553636393412",
@@ -4990,7 +5033,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61550871940349",
@@ -5009,7 +5052,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100092327255972",
@@ -5028,7 +5071,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100036659790528",
@@ -5047,7 +5090,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100081932000632",
@@ -5066,7 +5109,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61556760853687",
@@ -5085,7 +5128,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "61556641987594",
@@ -5104,7 +5147,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716044468073
     },
     {
         "userID": "61553990204287",
@@ -5123,7 +5166,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100089809122552",
@@ -5142,7 +5185,7 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
     },
     {
         "userID": "100090041670438",
@@ -5161,6 +5204,1683 @@
             "exp": 1,
             "money": "0"
         },
-        "lastUpdated": 1715821931982
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "1270787329",
+        "info": {
+            "name": "Jessica Gonzalez",
+            "firstName": "Jessica",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/1270787329/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=1270787329",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100024871212620",
+        "info": {
+            "name": "✅ Nguyễn Đinh Tiến Dũng ✅☠️️🏹🔰️🎱👑️🎧💔️🥊️🎳️🎖️️🏅️🥇️🥈️🥉️🏆",
+            "firstName": "Dũng ✅☠️️🏹🔰️🎱👑️🎧💔️🥊️🎳️🎖️️🏅️🥇️🥈️🥉️🏆",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100024871212620/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100024871212620",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 69,
+            "money": "0"
+        },
+        "lastUpdated": 1716044405133
+    },
+    {
+        "userID": "61552548836547",
+        "info": {
+            "name": "Ph.Minh Đồng",
+            "firstName": "Ph.Minh Đồng",
+            "vanity": "ph.minh.ong",
+            "thumbSrc": "https://graph.facebook.com/61552548836547/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/ph.minh.ong",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100057565501183",
+        "info": {
+            "thumbSrc": "https://graph.facebook.com/100057565501183/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "name": "Thuy Trang",
+            "firstName": "Thuy",
+            "vanity": "dspviz",
+            "profileUrl": "https://www.facebook.com/dspviz",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 45,
+            "money": "0"
+        },
+        "lastUpdated": 1716036050854
+    },
+    {
+        "userID": "100079303208695",
+        "info": {
+            "thumbSrc": "https://graph.facebook.com/100079303208695/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "name": "Tran Ai",
+            "firstName": "Ai",
+            "vanity": "mbnatta407",
+            "profileUrl": "https://www.facebook.com/mbnatta407",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 160,
+            "money": "0"
+        },
+        "lastUpdated": 1716042731330
+    },
+    {
+        "userID": "61550567649905",
+        "info": {
+            "name": "Mize Duckin",
+            "firstName": "Duckin",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61550567649905/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61550567649905",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61552013136021",
+        "info": {
+            "name": "Akane Kurokawa",
+            "firstName": "Akane",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61552013136021/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61552013136021",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61552386518044",
+        "info": {
+            "name": "Người dùng Facebook",
+            "thumbSrc": "https://graph.facebook.com/61552386518044/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": null,
+            "type": "UnavailableMessagingActor",
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61552420560028",
+        "info": {
+            "name": "Minh Thiện",
+            "firstName": "Thiện",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61552420560028/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61552420560028",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61555244560417",
+        "info": {
+            "name": "Cn Bo",
+            "firstName": "Cn",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61555244560417/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61555244560417",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 9,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61555801534618",
+        "info": {
+            "name": "Đỗ Khôi",
+            "firstName": "Khôi",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61555801534618/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61555801534618",
+            "gender": 6,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 20,
+            "money": "0"
+        },
+        "lastUpdated": 1716026235009
+    },
+    {
+        "userID": "61556917214894",
+        "info": {
+            "name": "Lâm Kiệt",
+            "firstName": "Kiệt",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61556917214894/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61556917214894",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61557707502965",
+        "info": {
+            "name": "Văn Khuyến",
+            "firstName": "Khuyến",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61557707502965/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61557707502965",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61558292602470",
+        "info": {
+            "name": "Người dùng Facebook",
+            "thumbSrc": "https://graph.facebook.com/61558292602470/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": null,
+            "type": "UnavailableMessagingActor",
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61559228586467",
+        "info": {
+            "name": "Gái Đẹp Lồn Múp.",
+            "firstName": "Gái Đẹp Lồn Múp.",
+            "vanity": "sieudepgaivasieumips",
+            "thumbSrc": "https://graph.facebook.com/61559228586467/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/sieudepgaivasieumips",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100024269647044",
+        "info": {
+            "name": "Hoàng Lê",
+            "firstName": "Lê",
+            "vanity": "MayCopyLinkNayLamGi",
+            "thumbSrc": "https://graph.facebook.com/100024269647044/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/MayCopyLinkNayLamGi",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100029599370959",
+        "info": {
+            "name": "Finn Cato",
+            "firstName": "Finn",
+            "vanity": "yie.hiar.505",
+            "thumbSrc": "https://graph.facebook.com/100029599370959/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/yie.hiar.505",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100034085370847",
+        "info": {
+            "name": "Trương Thanh Yên",
+            "firstName": "Thanh Yên",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100034085370847/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100034085370847",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 23,
+            "money": "0"
+        },
+        "lastUpdated": 1716044293244
+    },
+    {
+        "userID": "100035952984334",
+        "info": {
+            "name": "Ng Minh",
+            "firstName": "Minh",
+            "vanity": "baka.khanh.31",
+            "thumbSrc": "https://graph.facebook.com/100035952984334/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/baka.khanh.31",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100041976221289",
+        "info": {
+            "name": "Người dùng Facebook",
+            "thumbSrc": "https://graph.facebook.com/100041976221289/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": null,
+            "type": "UnavailableMessagingActor",
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100048184913305",
+        "info": {
+            "name": "Thuu Ngocc Xing Gái",
+            "firstName": "Thuu",
+            "vanity": "thungoc0401",
+            "thumbSrc": "https://graph.facebook.com/100048184913305/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/thungoc0401",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100050498023529",
+        "info": {
+            "name": "Hà Trường Giang",
+            "firstName": "Giang",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100050498023529/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100050498023529",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 20,
+            "money": "0"
+        },
+        "lastUpdated": 1716040393629
+    },
+    {
+        "userID": "100051780603376",
+        "info": {
+            "name": "Tran Anh Tuan",
+            "firstName": "Tuan",
+            "vanity": "m.atuan207",
+            "thumbSrc": "https://graph.facebook.com/100051780603376/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/m.atuan207",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 8,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100054645421345",
+        "info": {
+            "name": "Vu Bao Ngoc",
+            "firstName": "Vu Bao",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100054645421345/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100054645421345",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100057450643541",
+        "info": {
+            "name": "Chmúatểnụcười Kẻhủydiệtnỗibuồncủaem",
+            "firstName": "Kẻhủydiệtnỗibuồncủaem",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100057450643541/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100057450643541",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100058338471476",
+        "info": {
+            "name": "Phạm Khánh",
+            "firstName": "Khánh",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100058338471476/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100058338471476",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 41,
+            "money": "0"
+        },
+        "lastUpdated": 1716037422036
+    },
+    {
+        "userID": "100058739941373",
+        "info": {
+            "name": "Cn Chố",
+            "firstName": "Cn",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100058739941373/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100058739941373",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100061199512440",
+        "info": {
+            "name": "Xuân Bắc",
+            "firstName": "Bắc",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100061199512440/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100061199512440",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100062415288509",
+        "info": {
+            "name": "Phan The Hung",
+            "firstName": "Hung",
+            "vanity": "PhanTheHungZ",
+            "thumbSrc": "https://graph.facebook.com/100062415288509/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/PhanTheHungZ",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 8,
+            "money": "0"
+        },
+        "lastUpdated": 1716026369676
+    },
+    {
+        "userID": "100066135835401",
+        "info": {
+            "name": "Nguyễn Quang Phi",
+            "firstName": "Phi",
+            "vanity": "phi.nguyenquang.5667",
+            "thumbSrc": "https://graph.facebook.com/100066135835401/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/phi.nguyenquang.5667",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100066925040312",
+        "info": {
+            "name": "Truong Vinh",
+            "firstName": "Vinh",
+            "vanity": "truongvinhhay",
+            "thumbSrc": "https://graph.facebook.com/100066925040312/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/truongvinhhay",
+            "gender": "NEUTER",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100067900903065",
+        "info": {
+            "name": "Ngọc Hân",
+            "firstName": "Hân",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100067900903065/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100067900903065",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100068244259535",
+        "info": {
+            "name": "Người Dùng Fakebooc",
+            "firstName": "Người",
+            "vanity": "cnmiauuuuuuuuuuuuuuuuuuuuuuuuu",
+            "thumbSrc": "https://graph.facebook.com/100068244259535/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/cnmiauuuuuuuuuuuuuuuuuuuuuuuuu",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 6,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100068247970181",
+        "info": {
+            "name": "Nguyễn Tuấn Khoa",
+            "firstName": "Tuấn Khoa",
+            "vanity": "nguyen.tuan.khoa.12979431",
+            "thumbSrc": "https://graph.facebook.com/100068247970181/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/nguyen.tuan.khoa.12979431",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 29,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100069961043686",
+        "info": {
+            "name": "Pham Thi Dan Thy",
+            "firstName": "Dan Thy",
+            "vanity": "danthyyy",
+            "thumbSrc": "https://graph.facebook.com/100069961043686/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/danthyyy",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100070868528461",
+        "info": {
+            "name": "Trái Bơ",
+            "firstName": "Bơ",
+            "vanity": "traibo27",
+            "thumbSrc": "https://graph.facebook.com/100070868528461/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/traibo27",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 12,
+            "money": "0"
+        },
+        "lastUpdated": 1716040432620
+    },
+    {
+        "userID": "100071785706806",
+        "info": {
+            "name": "Thanh Toàn",
+            "firstName": "Thanh",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100071785706806/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100071785706806",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716040141107
+    },
+    {
+        "userID": "100071906074779",
+        "info": {
+            "name": "Nên Gọi Là Vú",
+            "firstName": "Là Vú",
+            "vanity": "dtvu09",
+            "thumbSrc": "https://graph.facebook.com/100071906074779/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/dtvu09",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 4,
+            "money": "0"
+        },
+        "lastUpdated": 1716039363134
+    },
+    {
+        "userID": "100072934671646",
+        "info": {
+            "name": "Anh Duy Đào",
+            "firstName": "Anh Duy",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100072934671646/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100072934671646",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 41,
+            "money": "0"
+        },
+        "lastUpdated": 1716024025907
+    },
+    {
+        "userID": "100074385548699",
+        "info": {
+            "name": "Nhân Lê",
+            "firstName": "Nhân",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100074385548699/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100074385548699",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 46,
+            "money": "0"
+        },
+        "lastUpdated": 1716043005313
+    },
+    {
+        "userID": "100075555436177",
+        "info": {
+            "name": "Lan Huong",
+            "firstName": "Lan",
+            "vanity": "thtruemilk1212.www.hahahahoho",
+            "thumbSrc": "https://graph.facebook.com/100075555436177/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/thtruemilk1212.www.hahahahoho",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 17,
+            "money": "0"
+        },
+        "lastUpdated": 1716030884283
+    },
+    {
+        "userID": "100075756992792",
+        "info": {
+            "name": "Eira Mina",
+            "firstName": "Mina",
+            "vanity": "Cuudangiunhatthegioi",
+            "thumbSrc": "https://graph.facebook.com/100075756992792/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/Cuudangiunhatthegioi",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100075861292733",
+        "info": {
+            "name": "Dương Ngô Hào",
+            "firstName": "Hào",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100075861292733/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100075861292733",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 24,
+            "money": "0"
+        },
+        "lastUpdated": 1716043476619
+    },
+    {
+        "userID": "100076003105276",
+        "info": {
+            "name": "Mai'i Héng'g",
+            "firstName": "Mai'i",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100076003105276/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100076003105276",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716039805718
+    },
+    {
+        "userID": "100076191971607",
+        "info": {
+            "name": "Đức Angg",
+            "firstName": "Angg",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100076191971607/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100076191971607",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 19,
+            "money": "0"
+        },
+        "lastUpdated": 1716043268013
+    },
+    {
+        "userID": "100076987893119",
+        "info": {
+            "name": "Phạm Văn Thắng",
+            "firstName": "Văn Thắng",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100076987893119/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100076987893119",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100077370174503",
+        "info": {
+            "name": "Duy Phúc",
+            "firstName": "Phúc",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100077370174503/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100077370174503",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 5,
+            "money": "0"
+        },
+        "lastUpdated": 1716033985493
+    },
+    {
+        "userID": "100077805470013",
+        "info": {
+            "name": "Lê Quynh Anh",
+            "firstName": "Anh",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100077805470013/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100077805470013",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100078295981680",
+        "info": {
+            "name": "Nguyễn Viết Đăng Khôi",
+            "firstName": "Khôi",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100078295981680/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100078295981680",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100079217535225",
+        "info": {
+            "name": "Hưng Wetterson",
+            "firstName": "Hưng",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100079217535225/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100079217535225",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 5,
+            "money": "0"
+        },
+        "lastUpdated": 1716034133659
+    },
+    {
+        "userID": "100079972998820",
+        "info": {
+            "name": "Ng Kieu Ly",
+            "firstName": "Kieu Ly",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100079972998820/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100079972998820",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100080337972099",
+        "info": {
+            "name": "Luong Thien Vu",
+            "firstName": "Luong Thien",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100080337972099/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100080337972099",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100080377305620",
+        "info": {
+            "name": "Người dùng Facebook",
+            "thumbSrc": "https://graph.facebook.com/100080377305620/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": null,
+            "type": "UnavailableMessagingActor",
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100081594514245",
+        "info": {
+            "name": "Con Chuot Beo",
+            "firstName": "Con Chuot",
+            "vanity": "thanhbucugoitenchuot",
+            "thumbSrc": "https://graph.facebook.com/100081594514245/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/thanhbucugoitenchuot",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100081608606870",
+        "info": {
+            "name": "Dương Lê",
+            "firstName": "Dương",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100081608606870/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100081608606870",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 24,
+            "money": "0"
+        },
+        "lastUpdated": 1716042617617
+    },
+    {
+        "userID": "100081855893100",
+        "info": {
+            "name": "Xấu Zai Mê Em",
+            "firstName": "Em",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100081855893100/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100081855893100",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100081878478885",
+        "info": {
+            "name": "Người Tình Mùa Đông",
+            "firstName": "Mùa Đông",
+            "vanity": "nnhuyys",
+            "thumbSrc": "https://graph.facebook.com/100081878478885/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/nnhuyys",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100082201059512",
+        "info": {
+            "name": "Nam Khánh",
+            "firstName": "Nam",
+            "vanity": "cheemssus",
+            "thumbSrc": "https://graph.facebook.com/100082201059512/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/cheemssus",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 9,
+            "money": "0"
+        },
+        "lastUpdated": 1716043319187
+    },
+    {
+        "userID": "100084449340981",
+        "info": {
+            "name": "Ben Muoi",
+            "firstName": "Ben",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100084449340981/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100084449340981",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 71,
+            "money": "0"
+        },
+        "lastUpdated": 1716040454222
+    },
+    {
+        "userID": "100085867673904",
+        "info": {
+            "name": "Ha Mi",
+            "firstName": "Mi",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100085867673904/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100085867673904",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 40,
+            "money": "0"
+        },
+        "lastUpdated": 1716035859366
+    },
+    {
+        "userID": "100087519284659",
+        "info": {
+            "name": "Lương Đinh",
+            "firstName": "Lương",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100087519284659/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100087519284659",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100087983057950",
+        "info": {
+            "name": "Mai Chii",
+            "firstName": "Chii",
+            "vanity": "Maichicutehotmangcau",
+            "thumbSrc": "https://graph.facebook.com/100087983057950/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/Maichicutehotmangcau",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 6,
+            "money": "0"
+        },
+        "lastUpdated": 1716038302342
+    },
+    {
+        "userID": "100088445935931",
+        "info": {
+            "name": "Hoang Huy",
+            "firstName": "Hoang",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100088445935931/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100088445935931",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100089067683742",
+        "info": {
+            "name": "Fuc Bell",
+            "firstName": "Bell",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100089067683742/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100089067683742",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100089253831849",
+        "info": {
+            "name": "Phạm Đức Ang",
+            "firstName": "Đức Ang",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100089253831849/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100089253831849",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 10,
+            "money": "0"
+        },
+        "lastUpdated": 1716041212373
+    },
+    {
+        "userID": "100090196384268",
+        "info": {
+            "name": "Cow Bee",
+            "firstName": "Cow",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100090196384268/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100090196384268",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100090876816189",
+        "info": {
+            "name": "Suc Vat Sangsang",
+            "firstName": "Sangsang",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100090876816189/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100090876816189",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100091074853072",
+        "info": {
+            "name": "Thùy Trangg",
+            "firstName": "Trangg",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100091074853072/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100091074853072",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 22,
+            "money": "0"
+        },
+        "lastUpdated": 1716044420597
+    },
+    {
+        "userID": "100091244569218",
+        "info": {
+            "name": "Khiêm Sân Si",
+            "firstName": "Khiêm",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100091244569218/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100091244569218",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 81,
+            "money": "0"
+        },
+        "lastUpdated": 1716043590423
+    },
+    {
+        "userID": "100091780251960",
+        "info": {
+            "name": "Nguyễn Khánh",
+            "firstName": "Khánh",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100091780251960/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100091780251960",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100092274281757",
+        "info": {
+            "name": "Khiêm Khiêmm",
+            "firstName": "Khiêm",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100092274281757/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100092274281757",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100092852912472",
+        "info": {
+            "name": "Hai Anhh",
+            "firstName": "Hai",
+            "vanity": "kyoryded",
+            "thumbSrc": "https://graph.facebook.com/100092852912472/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/kyoryded",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100093078543205",
+        "info": {
+            "name": "Nguyễn Thị Minh Thư",
+            "firstName": "Thư",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100093078543205/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100093078543205",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100093189680360",
+        "info": {
+            "name": "Suốt Ngày Đái",
+            "firstName": "Suốt Ngày",
+            "vanity": "canyoublowmywhistlebabe",
+            "thumbSrc": "https://graph.facebook.com/100093189680360/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/canyoublowmywhistlebabe",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 34,
+            "money": "0"
+        },
+        "lastUpdated": 1716026070032
+    },
+    {
+        "userID": "100094023035872",
+        "info": {
+            "name": "Sangg Sang",
+            "firstName": "Sangg",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100094023035872/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100094023035872",
+            "gender": "FEMALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100094108060645",
+        "info": {
+            "name": "Nguyễn Văn Toàn",
+            "firstName": "Toàn",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100094108060645/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100094108060645",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100094986447613",
+        "info": {
+            "name": "Con Cé",
+            "firstName": "Cé",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100094986447613/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100094986447613",
+            "gender": "MALE",
+            "type": "User",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100095402741665",
+        "info": {
+            "name": "Khiêm Tấn",
+            "firstName": "Tấn",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100095402741665/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100095402741665",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "61550686211752",
+        "info": {
+            "name": "Bluss Anh",
+            "firstName": "Bluss",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61550686211752/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61550686211752",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 43,
+            "money": "567",
+            "daily": 1716025736645,
+            "work": {
+                "lastWorked": 1716026006673,
+                "delay": 7200000
+            }
+        },
+        "lastUpdated": 1716026423066
+    },
+    {
+        "userID": "61556664283472",
+        "info": {
+            "name": "Ngô Vũ",
+            "firstName": "Ngô",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/61556664283472/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=61556664283472",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 1,
+            "money": "0"
+        },
+        "lastUpdated": 1716026423841
+    },
+    {
+        "userID": "100028247522193",
+        "info": {
+            "name": "Thành Đạt",
+            "firstName": "Đạt",
+            "vanity": "chou.nguyenthi",
+            "thumbSrc": "https://graph.facebook.com/100028247522193/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/chou.nguyenthi",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 56,
+            "money": "0"
+        },
+        "lastUpdated": 1716031456583
+    },
+    {
+        "userID": "100081114458877",
+        "info": {
+            "name": "Tien Phat",
+            "firstName": "Tien",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100081114458877/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100081114458877",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 11,
+            "money": "0"
+        },
+        "lastUpdated": 1716028438216
+    },
+    {
+        "userID": "100082566712416",
+        "info": {
+            "name": "Hoang Phongg",
+            "firstName": "Hoang",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100082566712416/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100082566712416",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 2,
+            "money": "0"
+        },
+        "lastUpdated": 1716037116044
+    },
+    {
+        "userID": "100091106535811",
+        "info": {
+            "name": "Ng Nhat Anh",
+            "firstName": "Nhat Anh",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100091106535811/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100091106535811",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 74,
+            "money": "0"
+        },
+        "lastUpdated": 1716044547780
+    },
+    {
+        "userID": "100093315031760",
+        "info": {
+            "name": "Ng Hoang Long",
+            "firstName": "Ng",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100093315031760/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100093315031760",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716026423424
+    },
+    {
+        "userID": "100095007404387",
+        "info": {
+            "name": "Nguyen Tuan Lam",
+            "firstName": "Nguyen",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100095007404387/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100095007404387",
+            "gender": 2,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 184,
+            "money": "0",
+            "work": {
+                "lastWorked": 1716027612316,
+                "delay": 1800000
+            },
+            "daily": 1716000123377
+        },
+        "lastUpdated": 1716030569313
+    },
+    {
+        "userID": "100094014420311",
+        "info": {
+            "name": "黒川 あかね",
+            "firstName": "あかね",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100094014420311/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100094014420311",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 40,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "100078957961139",
+        "info": {
+            "name": "Ngoc Nhii",
+            "firstName": "Nhii",
+            "vanity": "",
+            "thumbSrc": "https://graph.facebook.com/100078957961139/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662",
+            "profileUrl": "https://www.facebook.com/profile.php?id=100078957961139",
+            "gender": 1,
+            "type": "user",
+            "isFriend": false,
+            "isBirthday": false
+        },
+        "data": {
+            "exp": 3,
+            "money": "0"
+        },
+        "lastUpdated": 1716011562922
+    },
+    {
+        "userID": "1074491699",
+        "info": {
+            "thumbSrc": "https://graph.facebook.com/1074491699/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+        },
+        "data": {
+            "exp": 23,
+            "money": 0
+        },
+        "lastUpdated": 1716040737279
     }
 ]

@@ -627,7 +627,6 @@
                 "100007332524434": "[ . ] Nhật Em",
                 "100028834296823": "trựck4",
                 "100029460173652": "Hiền lành",
-                "100037065521697": "David Foot",
                 "100054611960734": "Doanh Vệ Sĩ",
                 "100075337113552": "thần đần chưa trãi sự đời",
                 "100080938191481": "Nghĩa gta",
@@ -640,7 +639,9 @@
                 "61559000356617": "[ . ] Nhật Em",
                 "61559440640405": "[ . ] Nhật Em",
                 "61559744420302": "[ . ] Nhật Em",
-                "61559455811143": "[ . ] Nhật Em"
+                "61559455811143": "[ . ] Nhật Em",
+                "61559839756968": "[ . ] Nhật Em",
+                "61559727532523": "[ . ] Nhật Em"
             },
             "adminIDs": [
                 "100075337113552"
@@ -672,11 +673,11 @@
                 },
                 {
                     "userID": "1290157550",
-                    "exp": 41
+                    "exp": 42
                 },
                 {
                     "userID": "61551885596696",
-                    "exp": 1
+                    "exp": 3
                 },
                 {
                     "userID": "61552143827624"
@@ -704,14 +705,11 @@
                     "userID": "100007332524434"
                 },
                 {
-                    "userID": "100018096263453"
+                    "userID": "100018096263453",
+                    "exp": 8
                 },
                 {
                     "userID": "100028834296823"
-                },
-                {
-                    "userID": "100037065521697",
-                    "exp": 68
                 },
                 {
                     "userID": "100041069441539"
@@ -724,7 +722,7 @@
                 },
                 {
                     "userID": "100075337113552",
-                    "exp": 99
+                    "exp": 109
                 },
                 {
                     "userID": "100080938191481",
@@ -739,6 +737,15 @@
                 },
                 {
                     "userID": "61559455811143"
+                },
+                {
+                    "userID": "61559839756968"
+                },
+                {
+                    "userID": "61559727532523"
+                },
+                {
+                    "userID": "100037065521697"
                 }
             ]
         },
@@ -746,7 +753,7 @@
             "prefix": null,
             "nsfw": false
         },
-        "lastUpdated": 1715833732383
+        "lastUpdated": 1717338801078
     },
     {
         "threadID": "7461686123950733",
@@ -1926,5 +1933,695 @@
             "nsfw": true
         },
         "lastUpdated": 1716027990442
+    },
+    {
+        "threadID": "7631588980271041",
+        "info": {
+            "threadID": "7631588980271041",
+            "unreadCount": 0,
+            "messageCount": 66,
+            "timestamp": "1717076980543",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": null,
+            "color": null,
+            "nicknames": {
+                "61559727532523": "[ . ] Nhật Em"
+            },
+            "adminIDs": [
+                "100018096263453"
+            ],
+            "approvalMode": false,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": null,
+            "snippet": "𝑫𝒂𝒏𝒈 𝑵𝒈𝒖𝒚𝒆𝒏 𝑵𝒉𝒂𝒕 𝑨𝒏𝒉𓅪 đã thêm bạn vào nhóm.",
+            "snippetSender": "100018096263453",
+            "snippetAttachments": [],
+            "serverTimestamp": "1717076980543",
+            "imageSrc": null,
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1717076980543",
+            "threadType": 2,
+            "members": [
+                {
+                    "userID": "61560528532970"
+                },
+                {
+                    "userID": "100017517576102"
+                },
+                {
+                    "userID": "100018096263453",
+                    "exp": 64
+                },
+                {
+                    "userID": "61559727532523"
+                }
+            ]
+        },
+        "data": {
+            "prefix": ".",
+            "antiSettings": {
+                "antiOut": true
+            }
+        },
+        "lastUpdated": 1717211172628
+    },
+    {
+        "threadID": "7671076706264089",
+        "info": {
+            "threadID": "7671076706264089",
+            "unreadCount": 0,
+            "messageCount": 493,
+            "timestamp": "1717241592885",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": "🐧",
+            "color": "1B6B00",
+            "nicknames": {
+                "100017517576102": "dinhhung",
+                "100018096263453": "Chính Quyền SVNOCRT",
+                "100028829749399": "yyctltn",
+                "100029357764336": "chim to nhất box",
+                "100046734953051": "bing(...)1022",
+                "100049364920723": "duyanh0202",
+                "100049747861962": "Ligma",
+                "100052274221807": "DonUSbaybe",
+                "100054275761064": "Vtee2002",
+                "100066106855863": "[ECHOING_VOID] KhangVoDit",
+                "100067337477941": "Selena",
+                "100068851339963": "Innosuke",
+                "100070466761050": "[ spider ] takidayyy",
+                "100072513099435": "Điều Hành SVNOCRT",
+                "100073176867492": "HramXD",
+                "100074805957758": "nhatcuong123",
+                "100076179092613": "KAI-NU_JUBA",
+                "100076958468549": "Ghozt197 ( admin )",
+                "100079170941384": "KhoaDepTraiVai",
+                "100080745496647": "NgTheHung18",
+                "100080779737757": "×͜×LФMG࿐",
+                "100081306086443": "superdeptrai",
+                "100085279155927": "kaipromaxvip",
+                "100086204330093": "Givenboot9526",
+                "100086266654524": "AkikoCat(Adm) Thẩm phán:3",
+                "100086469716469": "Taii",
+                "100087420840882": "yunotamoki",
+                "100087617046842": "VaiTuongLo1337",
+                "100087954987673": "khangtun11",
+                "100088235611278": "ERITvn",
+                "100089184245136": "lian8231",
+                "100089751997113": "Niro6962",
+                "100090027477427": "DrainSnake",
+                "100090038539513": "Quan1105",
+                "100090090560812": "thhDanni208",
+                "100090811492245": "ItzMinkV",
+                "100091447810584": "[ECHOING_VOID]NHAN",
+                "100093514877053": "NnL depzaiii",
+                "100094476611184": "Bannie3102",
+                "100094556250435": "NguyenZip",
+                "100094721288802": "TrDucanh2006",
+                "61550813087459": "die2069102",
+                "61550822547763": "afkoasib",
+                "61551075099729": "annatrox",
+                "61554329742159": "Komoyahs",
+                "61555116712717": "FMTVgaming_YTB (ai cho vô team đe:) )",
+                "61555609950193": "Hungdzvll11",
+                "61555844574921": "stor1117393",
+                "61556078639857": "Rubi",
+                "61556700780258": "VnPhongCat",
+                "61556791404242": "Tunz",
+                "61558474035479": "đom đóm",
+                "61559169718518": "DQVINHBAVLL",
+                "61559769832431": "AHQuanMC đả kick bạn ra khỏi nhóm",
+                "61559727532523": "[ . ] Nhật Em"
+            },
+            "adminIDs": [
+                "61555609950193",
+                "61556791404242",
+                "100018096263453",
+                "100072513099435",
+                "100086266654524"
+            ],
+            "approvalMode": true,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": "SVNOCRT",
+            "snippet": "𝑫𝒂𝒏𝒈 𝑵𝒈𝒖𝒚𝒆𝒏 𝑵𝒉𝒂𝒕 𝑨𝒏𝒉𓅪 đã thêm bạn vào nhóm.",
+            "snippetSender": "100018096263453",
+            "snippetAttachments": [],
+            "serverTimestamp": "1717241592885",
+            "imageSrc": "/home/container/core/var/data/t_img/7671076706264089.jpg",
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1717241592885",
+            "threadType": 2,
+            "members": [
+                {
+                    "userID": "61550716161896"
+                },
+                {
+                    "userID": "61550725292194"
+                },
+                {
+                    "userID": "61550822547763"
+                },
+                {
+                    "userID": "61550927562014"
+                },
+                {
+                    "userID": "61551892117642"
+                },
+                {
+                    "userID": "61552606115190"
+                },
+                {
+                    "userID": "61553281767016",
+                    "exp": 32
+                },
+                {
+                    "userID": "61553645584612"
+                },
+                {
+                    "userID": "61553879990237",
+                    "exp": 1
+                },
+                {
+                    "userID": "61555116712717",
+                    "exp": 1
+                },
+                {
+                    "userID": "61555365530111"
+                },
+                {
+                    "userID": "61555609950193"
+                },
+                {
+                    "userID": "61556078639857"
+                },
+                {
+                    "userID": "61556700780258",
+                    "exp": 4
+                },
+                {
+                    "userID": "61556791404242",
+                    "exp": 2
+                },
+                {
+                    "userID": "61557852462329",
+                    "exp": 1
+                },
+                {
+                    "userID": "61559078672799"
+                },
+                {
+                    "userID": "61559169718518",
+                    "exp": 19
+                },
+                {
+                    "userID": "61559474767886"
+                },
+                {
+                    "userID": "61559727532523"
+                },
+                {
+                    "userID": "61559769832431",
+                    "exp": 7
+                },
+                {
+                    "userID": "61560372536523"
+                },
+                {
+                    "userID": "100017517576102",
+                    "exp": 21
+                },
+                {
+                    "userID": "100018096263453",
+                    "exp": 58
+                },
+                {
+                    "userID": "100039653961182"
+                },
+                {
+                    "userID": "100041907495361"
+                },
+                {
+                    "userID": "100046671126516"
+                },
+                {
+                    "userID": "100048354971894"
+                },
+                {
+                    "userID": "100050730824870"
+                },
+                {
+                    "userID": "100054849648365"
+                },
+                {
+                    "userID": "100063592680861"
+                },
+                {
+                    "userID": "100066968552390"
+                },
+                {
+                    "userID": "100068555344254",
+                    "exp": 32
+                },
+                {
+                    "userID": "100069759903969"
+                },
+                {
+                    "userID": "100069810221342"
+                },
+                {
+                    "userID": "100069875925873"
+                },
+                {
+                    "userID": "100072513099435",
+                    "exp": 56
+                },
+                {
+                    "userID": "100072952626509"
+                },
+                {
+                    "userID": "100074731683079"
+                },
+                {
+                    "userID": "100074805957758",
+                    "exp": 97
+                },
+                {
+                    "userID": "100075946045217"
+                },
+                {
+                    "userID": "100076179092613"
+                },
+                {
+                    "userID": "100077435291819"
+                },
+                {
+                    "userID": "100077458158209"
+                },
+                {
+                    "userID": "100078385533448"
+                },
+                {
+                    "userID": "100080779737757",
+                    "exp": 4
+                },
+                {
+                    "userID": "100080803782133"
+                },
+                {
+                    "userID": "100082361832947",
+                    "exp": 13
+                },
+                {
+                    "userID": "100082669756910"
+                },
+                {
+                    "userID": "100082894193737"
+                },
+                {
+                    "userID": "100083862806574"
+                },
+                {
+                    "userID": "100084530802746",
+                    "exp": 21
+                },
+                {
+                    "userID": "100085123755128"
+                },
+                {
+                    "userID": "100085279155927",
+                    "exp": 2
+                },
+                {
+                    "userID": "100086009676872",
+                    "exp": 3
+                },
+                {
+                    "userID": "100086102161295"
+                },
+                {
+                    "userID": "100086204330093"
+                },
+                {
+                    "userID": "100086266654524",
+                    "exp": 10
+                },
+                {
+                    "userID": "100087241847678"
+                },
+                {
+                    "userID": "100087420840882",
+                    "exp": 45
+                },
+                {
+                    "userID": "100087954987673"
+                },
+                {
+                    "userID": "100088458879976"
+                },
+                {
+                    "userID": "100088539912628"
+                },
+                {
+                    "userID": "100089562823492"
+                },
+                {
+                    "userID": "100090038539513"
+                },
+                {
+                    "userID": "100090811492245"
+                },
+                {
+                    "userID": "100092513929774"
+                },
+                {
+                    "userID": "100093674217810"
+                },
+                {
+                    "userID": "100093956256186",
+                    "exp": 2
+                },
+                {
+                    "userID": "100094364631964"
+                },
+                {
+                    "userID": "100094476611184"
+                },
+                {
+                    "userID": "100095436935565",
+                    "exp": 1
+                },
+                {
+                    "userID": "100085121080961",
+                    "exp": 1
+                },
+                {
+                    "userID": "100074057945665"
+                },
+                {
+                    "userID": "61557566038060",
+                    "exp": 29
+                },
+                {
+                    "userID": "61550480901289"
+                }
+            ]
+        },
+        "data": {
+            "prefix": null
+        },
+        "lastUpdated": 1717375579902
+    },
+    {
+        "threadID": "7583124698403879",
+        "info": {
+            "threadID": "7583124698403879",
+            "unreadCount": 2,
+            "messageCount": 3,
+            "timestamp": "1717326545547",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": null,
+            "color": null,
+            "nicknames": {},
+            "adminIDs": [
+                "100018096263453"
+            ],
+            "approvalMode": false,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": null,
+            "snippet": ".help",
+            "snippetSender": "100018096263453",
+            "snippetAttachments": [],
+            "serverTimestamp": "1717326545547",
+            "imageSrc": null,
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1717321739297",
+            "threadType": 2,
+            "members": [
+                {
+                    "userID": "61551956759823"
+                },
+                {
+                    "userID": "61559727532523"
+                },
+                {
+                    "userID": "100018096263453",
+                    "exp": 14
+                }
+            ]
+        },
+        "data": {
+            "prefix": null
+        },
+        "lastUpdated": 1717326546239
+    },
+    {
+        "threadID": "7386619314769907",
+        "info": {
+            "threadID": "7386619314769907",
+            "unreadCount": 0,
+            "messageCount": 491,
+            "timestamp": "1717337305566",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": "🐧",
+            "color": "F9005A",
+            "nicknames": {
+                "100052933880911": "người con gái thảo mai",
+                "100073144488521": "No1 Taylormavuongtulen",
+                "100073252860975": "TayNhoCuTo",
+                "100079732423708": "bin sịp per",
+                "100081544274697": "No2",
+                "100092183569102": "Dino",
+                "61558691518366": "『 ! 』➠ YAE - MIKO ♫",
+                "61560370379197": "vợ No3",
+                "61559727532523": "[ . ] Nhật Em",
+                "61560587696043": "0ok"
+            },
+            "adminIDs": [
+                "61560370379197",
+                "100073144488521",
+                "100092183569102",
+                "61558314653656"
+            ],
+            "approvalMode": false,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": "Box Liqi",
+            "snippet": "Minoku Baka đã thêm bạn vào nhóm.",
+            "snippetSender": "61560370379197",
+            "snippetAttachments": [],
+            "serverTimestamp": "1717337305566",
+            "imageSrc": "/home/container/core/var/data/t_img/7386619314769907.jpg",
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1717337305566",
+            "threadType": 2,
+            "members": [
+                {
+                    "userID": "61551506210072"
+                },
+                {
+                    "userID": "61551760363444"
+                },
+                {
+                    "userID": "61553795627808"
+                },
+                {
+                    "userID": "61554048406849"
+                },
+                {
+                    "userID": "61558691518366"
+                },
+                {
+                    "userID": "61559727532523"
+                },
+                {
+                    "userID": "61560370379197",
+                    "exp": 207
+                },
+                {
+                    "userID": "100038036914771"
+                },
+                {
+                    "userID": "100052933880911"
+                },
+                {
+                    "userID": "100063915193188"
+                },
+                {
+                    "userID": "100065414239085"
+                },
+                {
+                    "userID": "100070207165782"
+                },
+                {
+                    "userID": "100071168805834"
+                },
+                {
+                    "userID": "100073144488521",
+                    "exp": 13
+                },
+                {
+                    "userID": "100073252860975",
+                    "exp": 5
+                },
+                {
+                    "userID": "100079732423708",
+                    "exp": 396
+                },
+                {
+                    "userID": "100081544274697"
+                },
+                {
+                    "userID": "100092093157758"
+                },
+                {
+                    "userID": "100092183569102"
+                },
+                {
+                    "userID": "61558314653656",
+                    "exp": 467
+                },
+                {
+                    "userID": "61560587696043",
+                    "exp": 5
+                }
+            ]
+        },
+        "data": {
+            "prefix": null,
+            "language": "vi_VN",
+            "antiSettings": {
+                "antiSpam": false,
+                "antiOut": false,
+                "antiChangeGroupName": false,
+                "antiChangeGroupImage": false,
+                "antiChangeNickname": false,
+                "notifyChange": true
+            },
+            "levelup_noti": true
+        },
+        "lastUpdated": 1717374663501
+    },
+    {
+        "threadID": "7987755754570113",
+        "info": {
+            "threadID": "7987755754570113",
+            "unreadCount": 0,
+            "messageCount": 3,
+            "timestamp": "1717377887921",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": null,
+            "color": null,
+            "nicknames": {
+                "61559727532523": "[ . ] Nhật Em"
+            },
+            "adminIDs": [
+                "61560370379197"
+            ],
+            "approvalMode": false,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": null,
+            "snippet": "Minoku Baka đã thêm bạn vào nhóm.",
+            "snippetSender": "61560370379197",
+            "snippetAttachments": [],
+            "serverTimestamp": "1717377887921",
+            "imageSrc": null,
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1717377887921",
+            "threadType": 2,
+            "members": [
+                {
+                    "userID": "61558314653656"
+                },
+                {
+                    "userID": "61559727532523"
+                },
+                {
+                    "userID": "61560370379197",
+                    "exp": 1
+                }
+            ]
+        },
+        "data": {
+            "prefix": null
+        },
+        "lastUpdated": 1717377891506
     }
 ]

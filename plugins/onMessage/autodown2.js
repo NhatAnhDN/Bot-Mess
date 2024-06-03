@@ -75,7 +75,7 @@ async function getVideoInfo(url) {
     return null;
   }
 }
-const API = 'http://localhost:8080'
+const API = 'https://apidown.site'
 const API_2 = 'https://api.uchihaobito.site'
 const API_3 = 'https://nguyenmanh.name.vn'
 const API_4 = 'https://kemapis.eu.org'
@@ -268,7 +268,7 @@ if (regEx_likee.test(el)) {
 if (regEx_tiktok.test(el)) {
   const datas = (
     await axios.get(
-      API + `/tiktok/downloadvideo?url=` + el
+      API + `/api/tiktok/v1?link=` + el
     )
   ).data;
 
@@ -290,7 +290,7 @@ if (regEx_tiktok.test(el)) {
       body: `
 🥨==『 𝗔𝗨𝗧𝗢𝗗𝗢𝗪𝗡 』==🥨\n━━━━━━━━━━━━━━━━━━\n[👤] → Trạng thái: ${datas.msg}\n[🥀] → 𝗨𝗜𝗗:  ${datas.data.id}\n[🌍] → Quốc gia: ${datas.data.region}\n[❤️] → 𝗟𝘂̛𝗼̛̣𝘁 𝗧𝗵𝗶́𝗰𝗵: ${datas.data.digg_count}.\n[💬] → 𝗟𝘂̛𝗼̛̣𝘁 𝗯𝗶̀𝗻𝗵 𝗹𝘂𝗮̣̂𝗻: ${datas.data.comment_count}\n[🌐] → 𝗟𝘂̛𝗼̛̣𝘁 𝗰𝗵𝗶𝗮 𝘀𝗲̉: ${datas.data.share_count}\n[📺] → 𝗟𝘂̛𝗼̛̣𝘁 𝘁𝗮̉𝗶: ${datas.data.download_count}\n[🎐] → title - ${datas.data.title}\n━━━━━━━━━━━━━━━━━━\n[⌛] → 𝗧𝗵𝗼̛̀𝗶 𝗴𝗶𝗮𝗻: ${datas.processed_time} 𝗴𝗶𝗮̂𝘆\n━━━━━━━━━━━━━━━━━━
 [🕓] → Thời gian hiện tại: ${moment().tz('Asia/Ho_Chi_Minh').format('HH:mm:ss')} || ${moment().tz('Asia/Ho_Chi_Minh').format('DD/MM/YYYY')}
-[🦋] → Đ𝐚̂𝘆 𝗹𝗮̀ 𝘁𝗶́𝗻𝗵 𝗻𝗮̆𝗻𝗴 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴 𝘁𝗮̉𝗶 𝘃𝗶𝗱𝗲𝗼/ảnh 𝘁𝗶𝗸𝘁𝗼𝗸/douyin 𝗸𝗵𝗼̂𝗻𝗴 𝗹𝗼𝗴𝗼 𝗸𝗵𝗶 𝗽𝗵𝗮́𝘁 𝗵𝗶𝗲̣̂𝗻 𝘂𝗿𝗹 𝘁𝗶𝗸𝘁𝗼𝗸/douyin`,
+[🦋] → Đ𝐚̂𝘆 𝗹𝗮̀ 𝘁𝗶́𝗻𝗵 𝗻𝗮̆𝗻𝗴 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴 𝘁𝗮̉𝗶 𝘃𝗶𝗱𝗲𝗼/ảnh 𝘁𝗶𝗸𝘁𝗼𝗸 𝗸𝗵𝗼̂𝗻𝗴 𝗹𝗼𝗴𝗼 𝗸𝗵𝗶 𝗽𝗵𝗮́𝘁 𝗵𝗶𝗲̣̂𝗻 𝘂𝗿𝗹 𝘁𝗶𝗸𝘁𝗼𝗸`,
       attachment: attachments,
     });
 
@@ -300,7 +300,7 @@ if (regEx_tiktok.test(el)) {
       body: `
 🥨==『 𝗔𝗨𝗧𝗢𝗗𝗢𝗪𝗡 』==🥨\n━━━━━━━━━━━━━━━━━━\n[👤] → Trạng thái: ${datas.msg}\n[🥀] → 𝗨𝗜𝗗:  ${datas.data.id}\n[🌍] → Quốc gia: ${datas.data.region}\n[❤️] → 𝗟𝘂̛𝗼̛̣𝘁 𝗧𝗵𝗶́𝗰𝗵: ${datas.data.digg_count}.\n[💬] → 𝗟𝘂̛𝗼̛̣𝘁 𝗯𝗶̀𝗻𝗵 𝗹𝘂𝗮̣̂𝗻: ${datas.data.comment_count}\n[🌐] → 𝗟𝘂̛𝗼̛̣𝘁 𝗰𝗵𝗶𝗮 𝘀𝗲̉: ${datas.data.share_count}\n[📺] → 𝗟𝘂̛𝗼̛̣𝘁 𝘁𝗮̉𝗶: ${datas.data.download_count}\n[🎐] → title - ${datas.data.title}\n━━━━━━━━━━━━━━━━━━\n[⌛] → 𝗧𝗵𝗼̛̀𝗶 𝗴𝗶𝗮𝗻: ${datas.processed_time} 𝗴𝗶𝗮̂𝘆\n━━━━━━━━━━━━━━━━━━
 [🕓] → Thời gian hiện tại: ${moment().tz('Asia/Ho_Chi_Minh').format('HH:mm:ss')} || ${moment().tz('Asia/Ho_Chi_Minh').format('DD/MM/YYYY')}
-[🦋] → Đ𝐚̂𝘆 𝗹𝗮̀ 𝘁𝗶́𝗻𝗵 𝗻𝗮̆𝗻𝗴 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴 𝘁𝗮̉𝗶 𝘃𝗶𝗱𝗲𝗼/ảnh 𝘁𝗶𝗸𝘁𝗼𝗸/douyin 𝗸𝗵𝗼̂𝗻𝗴 𝗹𝗼𝗴𝗼 𝗸𝗵𝗶 𝗽𝗵𝗮́𝘁 𝗵𝗶𝗲̣̂𝗻 𝘂𝗿𝗹 𝘁𝗶𝗸𝘁𝗼𝗸/douyin`,
+[🦋] → Đ𝐚̂𝘆 𝗹𝗮̀ 𝘁𝗶́𝗻𝗵 𝗻𝗮̆𝗻𝗴 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴 𝘁𝗮̉𝗶 𝘃𝗶𝗱𝗲𝗼/ảnh 𝘁𝗶𝗸𝘁𝗼𝗸 𝗸𝗵𝗼̂𝗻𝗴 𝗹𝗼𝗴𝗼 𝗸𝗵𝗶 𝗽𝗵𝗮́𝘁 𝗵𝗶𝗲̣̂𝗻 𝘂𝗿𝗹 𝘁𝗶𝗸tok`,
       attachment: await streamURL(datas.data.play, "mp4"),
     });
 
@@ -311,7 +311,7 @@ if (regEx_instagram.test(el)) {
   try {
     const datans = (
       await axios.get(
-        API + `/instagramdown?link=` + el
+        API + `/api/instagram/v1?link=` + el
       )
     ).data;
 
@@ -342,7 +342,7 @@ if (regEx_instagram.test(el)) {
 	if (regEx_capcut.test(el)) {
       const datasss = (
         await axios.get(
-          API + `/capcutdowload?url=` +
+          API + `/api/capcut/v1?link` +
             el
         )
       ).data;
@@ -502,3 +502,4 @@ if (regEx_facebook.test(el)) {
   //}
   }
 }
+

@@ -117,8 +117,8 @@ async function booting(api, xDatabase) {
     }
 }
 
-const _12HOUR = 1000 * 60 * 60 * 12;
-const _2HOUR = 1000 * 60 * 60 * 2;
+const _12HOUR = 1000 * 60 * 60 * 36;
+const _2HOUR = 1000 * 60 * 60 * 24;
 function refreshState() {
     global.refreshState = setInterval(() => {
         logger.custom(getLang("build.refreshState"), "REFRESH");
